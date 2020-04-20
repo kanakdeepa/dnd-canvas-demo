@@ -4,7 +4,7 @@ This is a demo app which enables the user to draw 3 basic type of shapes: circle
 
 #### Demo Link
 
-[Click here](http://forge-api-deepa.surge.sh) to see a demo. [Forge API Demo](http://forge-api-deepa.surge.sh)
+[Click here](http://canvas-deepa.surge.shi-deepa.surge.sh) to see a demo. [Forge API Demo](http://canvas-deepa.surge.sh)
 
 ## Steps to run
 
