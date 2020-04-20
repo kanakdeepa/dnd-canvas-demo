@@ -4,13 +4,15 @@
   "private": true,
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "deploy": "npm run build && mv build/index.html build/200.html && surge build --domain canvas-deepa.surge.sh"
   },
   "dependencies": {
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "surge": "^0.21.3"
   },
   "browserslist": {
     "production": [
